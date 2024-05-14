@@ -1,0 +1,3 @@
+-- Configuración inicial
+config --global user.name "JosueSay"
+config --global user.name "josuesay770@gmail.com"
