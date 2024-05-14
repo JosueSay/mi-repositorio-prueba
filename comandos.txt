@@ -16,3 +16,10 @@ git branch rama
 -- Cambiar rama/Guardar cambios en nueva ramagit 
 git switch -c "rama"
 git switch rama
+
+-- cambiar datos a rama
+git switch rama2
+git add .
+git commit -m ""
+git switch master
+git merge rama2
