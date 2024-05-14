@@ -1,3 +1,17 @@
 -- Configuración inicial
 config --global user.name "JosueSay"
 config --global user.name "josuesay770@gmail.com"
+
+
+-- Ver commits
+git log
+git log -1
+
+-- Volver a un commit
+git checkout key-commit
+
+-- Ver ramas
+git branch rama
+
+-- Cambiar rama/Guardar cambios en nueva ramagit 
+git swtich -c "rama"
